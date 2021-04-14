@@ -1,7 +1,7 @@
 # Equitable Sharing Program - Analysis
 Exploratory data analysis in Python of FOIA data regarding the DOJ's *Equitable Sharing Program*.
 
-The United States Department of Justice, in March 2016, reinstated a polarizing system known as the Equitable Sharing Program (ESP) after it was suspended in December 2015. The ESP, under Federal law, empowers a variety of law enforcement agencies to retain a large portion of assets seized from people. It enables these agencies the ability to prosecute some asset forfeiture cases under Federal law, which is quite favorable to these agencies and statistically has allowed for 80% of seized assets to be kept by the agencies, rather than state law. 
+The United States Department of Justice, in March 2016, reinstated a controversial system known as the Equitable Sharing Program (ESP) after it was suspended in December 2015. The ESP, under Federal law, empowers a variety of law enforcement agencies to retain a large portion of assets seized from people. It enables these agencies the ability to prosecute some asset forfeiture cases under Federal law, which is quite favorable to these agencies and statistically has allowed for 80% of seized assets to be kept by the agencies, rather than state law. 
 
 The raw dataset that we will clean and analyze offers insight into the historical spending and practices regarding asset seizure by law enforcement agencies. This data was obtained from a Freedom of Information Act (FOIA) request fulfilled in December 2014. *The Washington Post* referenced and utilized this data in their reporting of the 2016 changes to the ESP.
   
