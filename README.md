@@ -5,7 +5,7 @@ The United States Department of Justice, in March 2016, reinstated a controversi
 
 The raw dataset that we will clean and analyze offers insight into the historical spending and practices regarding asset seizure by law enforcement agencies. This data was obtained through a Freedom of Information Act (FOIA) request fulfilled in December 2014. *The Washington Post* referenced and utilized this data in their reporting of the 2016 changes to the ESP.
   
-The article detailing this event is available [here](https://www.washingtonpost.com/news/wonk/wp/2016/03/28/the-feds-have-resumed-a-controversial-program-that-lets-cops-take-stuff-and-keep-it/). I originally found he data about the Equitable Sharing Program on [Kaggle](https://www.kaggle.com/washingtonpost/equitable-sharing-spending-dataset) and it's also further detailed on the Washington Post's [GitHub](https://github.com/washingtonpost/data-equitable-sharing-spending) account.
+The article detailing this event is available [here](https://www.washingtonpost.com/news/wonk/wp/2016/03/28/the-feds-have-resumed-a-controversial-program-that-lets-cops-take-stuff-and-keep-it/). I originally found the data about the Equitable Sharing Program on [Kaggle](https://www.kaggle.com/washingtonpost/equitable-sharing-spending-dataset) and it's also further detailed on the Washington Post's [GitHub](https://github.com/washingtonpost/data-equitable-sharing-spending).
   
   Python Packages:
   - Pandas
